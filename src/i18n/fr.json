@@ -1,0 +1,72 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "continue": "Continuer",
+    "back": "Retour",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "search": "Rechercher",
+    "details": "Détails",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "points": "points"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signInTo": "Se connecter à PlayPro Support",
+    "demoAccounts": "Comptes de démonstration",
+    "anyPassword": "(n'importe quel mot de passe fonctionnera)"
+  },
+  "admin": {
+    "dashboard": "Tableau de bord",
+    "clients": "Clients",
+    "settings": "Paramètres",
+    "totalClients": "Total Clients",
+    "activeOnboarding": "Intégration Active",
+    "avgProgress": "Progression Moyenne",
+    "lastActivity": "Dernière Activité",
+    "viewDetails": "Voir les détails",
+    "needsAssistance": "Le client pourrait avoir besoin d'aide",
+    "customizeOnboarding": "Personnaliser l'intégration",
+    "onboardingSteps": "Étapes d'intégration",
+    "editStep": "Modifier l'étape",
+    "selectStep": "Sélectionner une étape",
+    "stepTitle": "Titre de l'étape",
+    "stepDescription": "Description",
+    "videoUrl": "URL de la vidéo",
+    "checklist": "Liste des tâches",
+    "addChecklistItem": "Ajouter une tâche",
+    "searchClients": "Rechercher des clients",
+    "addClient": "Ajouter un client",
+    "onboardingProgress": "Progression de l'intégration",
+    "stepBreakdown": "Détail des étapes",
+    "averageTimePerStep": "Temps moyen par étape: {{time}} heures"
+  },
+  "client": {
+    "onboarding": {
+      "journey": "Votre Parcours d'Intégration",
+      "progress": "Progression",
+      "completed": "Terminé",
+      "inProgress": "En cours",
+      "notStarted": "Non commencé",
+      "achievements": "Réalisations",
+      "unlocked": "Débloqué",
+      "locked": "Verrouillé",
+      "completeToUnlock": "Complétez les tâches associées pour débloquer",
+      "continueJourney": "Reprendre où vous en étiez",
+      "nextStep": "Étape suivante",
+      "taskList": "Liste des tâches",
+      "completeStep": "Terminer l'étape",
+      "level": {
+        "beginner": "Débutant",
+        "intermediate": "Intermédiaire",
+        "expert": "Expert"
+      }
+    }
+  }
+}
